@@ -7,6 +7,7 @@ logs/
 temp/
 tmp/
 
+/deprecated_client
 .env
 .env.*
 !.env.example
